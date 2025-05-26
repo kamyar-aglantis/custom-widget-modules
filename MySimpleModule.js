@@ -5,3 +5,5 @@ var MySimpleModule = {
     return this.message;
   },
 };
+
+export default MySimpleModule;
